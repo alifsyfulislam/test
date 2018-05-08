@@ -1,0 +1,7 @@
+$ git config --global user.name "alifsyfulislam"
+$ git config --global user.email "alifsyfulislam@gmail.com"
+$ cd test
+$ git status
+$ git add xyz.txt
+$ git status
+$ git commit -m "Add a new file"
